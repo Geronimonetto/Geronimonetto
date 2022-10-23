@@ -1,5 +1,4 @@
-<div class="tenor-gif-embed" data-postid="26977715" data-share-method="host" data-width="100%" data-aspect-ratio="1.6711409395973154"><a href="https://tenor.com/view/gif-26977715">GIF</a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<p align="center"><img align = "center" src = "https://c.tenor.com/0b9638309d46bc21a5dab62f2a76f858/tenor.gif"></p>
 
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
 <h4 align="center">Eu Estou em busca de me tornar um Programador Backend </h4>
