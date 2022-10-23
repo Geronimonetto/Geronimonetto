@@ -1,4 +1,4 @@
-<p align="center">[img]https://i.imgur.com/XB8x6eJ.gif[/img]</p>
+<p align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="XB8x6eJ"><a href="https://imgur.com/XB8x6eJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></p>
 
 
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
