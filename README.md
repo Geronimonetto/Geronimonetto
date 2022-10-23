@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://c.tenor.com/W_yDCzCP6RUAAAAC/nanotech-nano.gif">
+<p align="center"> <img src="https://c.tenor.com/W_yDCzCP6RUAAAAC/nanotech-nano.gif"></p>
 
 
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
