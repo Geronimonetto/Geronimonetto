@@ -1,7 +1,7 @@
 <p align="center"><img align = "center" src = "https://i.pinimg.com/originals/45/b2/e7/45b2e764d14cf9dee6dc3ed1ba0ad680.gif"></p>
 
 <h1 align="center">Oi 👋, Prazer eu sou o Neto</h1>
-<h4 align="center">Eu Estou em busca de me tornar um Programador Backend </h4>
+<h4 align="center">Programador Backend </h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto" /> </p>
