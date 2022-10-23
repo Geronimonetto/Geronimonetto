@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://c.tenor.com/W_yDCzCP6RUAAAAC/nanotech-nano.gif"></p>
+<p align="center"> <img src="file:///C:/Users/geron/Downloads/ezgif.com-gif-maker.gif"></p>
 
 
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
