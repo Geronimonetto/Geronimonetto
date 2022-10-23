@@ -1,4 +1,4 @@
-<p align="center"><img align = "center" src = "https://tenor.com/view/gif-26977715"></p>
+<p align="center"><img align = "center" src = "c.tenor.com/0b9638309d46bc21a5dab62f2a76f858/tenor.gif"></p>
 
 
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
