@@ -1,4 +1,4 @@
-[![Masterhead] align = "center" https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif)
+[![Masterhead](https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif)
 <h1 align="center">Olá 👋, Eu me Geronimo Neto</h1>
 <h3 align="center">Sou um Programador Backend </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif">
