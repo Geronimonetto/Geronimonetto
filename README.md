@@ -13,9 +13,9 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://fb.com/www.facebook.com/geronimo.morais.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/geronimo.morais.5/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/geronimo_neto/" target="blank"><img align="center" src="https://www.instagram.com/geronimo_neto/" alt="https://www.instagram.com/geronimo_neto/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/channel/ucmed-nmkogtxuyghyeb91jq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/channel/ucmed-nmkogtxuyghyeb91jq" height="30" width="40" /></a>
+<a href="https://fb.com/www.facebook.com/geronimo.morais.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/geronimo.morais.5/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/geronimo_neto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/geronimo_neto/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/channel/ucmed-nmkogtxuyghyeb91jq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ" height="30" width="40" /></a>
 <a href="https://discord.gg/YZero#2837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YZero#2837" height="30" width="40" /></a>
 </p>
 
