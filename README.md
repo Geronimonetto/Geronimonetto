@@ -1,4 +1,4 @@
-<p align="center"><img align = "center" src = "//s.imgur.com/min/embed.js"></p>
+<p align="center"><img align = "center" src = "https://imgur.com/XB8x6eJ"></p>
 
 
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
