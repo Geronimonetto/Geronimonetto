@@ -1,4 +1,4 @@
-<p align="center"><img align = "center" src = "file:///C:/Users/geron/Downloads/ezgif.com-gif-maker.gif"></p>
+<p align="center"><img align = "center" src = "https://tenor.com/view/gif-26977715.gif"></p>
 
 
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
