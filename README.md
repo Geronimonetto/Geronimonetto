@@ -1,6 +1,6 @@
-[![Masterhead](https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif).].(https ://Geronimonetto.io)
-<h1 align="center">Hi 👋, I'm Geronimo Neto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Masterhead](https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw/s1600/2000_600px.gif)](https ://Geronimonetto.io)
+<h1 align="center">Olá 👋, Eu me Geronimo Neto</h1>
+<h3 align="center">Sou um Programador Backend </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto" /> </p>
