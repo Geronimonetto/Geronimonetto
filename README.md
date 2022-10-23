@@ -1,4 +1,4 @@
-<p align="center"><img align = "center" width = "400" height = "300" src = "https://i.pinimg.com/originals/45/b2/e7/45b2e764d14cf9dee6dc3ed1ba0ad680.gif"></p>
+<p align="center"><img align = "center" width = "500" height = "300" src = "https://i.pinimg.com/originals/45/b2/e7/45b2e764d14cf9dee6dc3ed1ba0ad680.gif"></p>
 
 <h1 align="center">Oi 👋, Prazer eu sou o Neto</h1>
 <h3 align="center">Programador Backend </h3>
