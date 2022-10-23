@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/W_yDCzCP6RUAAAAC/nanotech-nano.gif">
+<img align="center" alt="Coding" width="400" src="https://c.tenor.com/W_yDCzCP6RUAAAAC/nanotech-nano.gif">
+
+
 <h1 align="center">Oi 👋, Pode me chamar de Neto</h1>
 <h4 align="center">Eu Estou em busca de me tornar um Programador Backend </h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif">
