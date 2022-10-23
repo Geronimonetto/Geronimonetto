@@ -32,4 +32,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geronimonetto&" alt="geronimonetto" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=geronimonetto&" alt="geronimonetto" /></p>
