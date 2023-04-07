@@ -1,12 +1,12 @@
 <p align="center"><img align = "center" width = "1200" height = "400" src = "https://i.pinimg.com/originals/45/b2/e7/45b2e764d14cf9dee6dc3ed1ba0ad680.gif"></p>
 
 <h1 align="center">Oi 👋, Prazer eu sou o Neto</h1>
-<h3 align="center">Programador Backend </h3>
+<h3 align="center">Analista de Dados</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto" /> </p>
 
-- 🌱 Eu estou aprendendo **Framework Django**
+- 🌱 Eu estou aprendendo **Microsoft Excel**
 
 - 🤝 Estou disponível para **Estágio/Emprego**
 
@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 <p><img align="left" width ="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=geronimonetto&show_icons=true&locale=en&layout=compact" alt="geronimonetto" /></p>
