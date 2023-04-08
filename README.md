@@ -2,7 +2,7 @@
 
 <h1 align="center">Oi 👋, Prazer eu sou o Neto</h1>
 <h3 align="center">Analista de Dados</h3>
-<p align ="right"> <img src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif"/> </p>
+<p align ="center"> <img src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto" /> </p>
 
 - 🌱 Eu estou aprendendo **Microsoft Excel**
