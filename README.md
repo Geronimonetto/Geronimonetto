@@ -5,7 +5,7 @@
 <p align ="center"> <img src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto" /> </p>
 
-- 🌱 Eu estou aprendendo **Microsoft Excel**
+- 🌱 Eu estou aprendendo **Desenvolvimento de REST API's com FLASK em Python**
 
 - 🤝 Estou disponível para **Estágio/Emprego**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/geronimo-neto-47b153225/" target="blank"><img align="center" src="" alt="https://www.linkedin.com/in/geronimo-neto-47b153225/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/geronimo.morais.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/geronimo.morais.5/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/geronimo_neto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/geronimo_neto/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ" height="30" width="40" /></a>
