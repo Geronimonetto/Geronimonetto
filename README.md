@@ -19,6 +19,5 @@
 <a href="https://www.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> </p>
 
 
-<p><img align="left" width ="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=geronimonetto&show_icons=true&locale=en&layout=compact" alt="geronimonetto" /></p>
 <p><img align="center" width ="400" src="https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=en" alt="geronimonetto" /></p>
 <p><img align="center" width ="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geronimonetto&" alt="geronimonetto" /></p>
