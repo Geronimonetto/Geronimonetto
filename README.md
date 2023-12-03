@@ -21,8 +21,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>  
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/> </a>   
 </p><a href="https://www.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> </a>
-<a href="https://www.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> </a> 
-<a href="https://www.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> </a>
+<a href="https://kubernetes.io/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
 
 
 <p><img align="center" width ="400" src="https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=en" alt="geronimonetto" /></p>
