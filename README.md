@@ -11,6 +11,8 @@
 
 - 📫 Meu contato **geronimomorais1617@gmail.com**
 
+- ✅ **Certificação**: AWS Cloud Pratictioner CLF-02 
+
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/geronimo-neto-47b153225/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/geronimo-neto-47b153225/"/></a>  <a href="https://www.facebook.com/geronimo.morais.5/" ><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/geronimo.morais.5/"/></a>  <a href="https://www.instagram.com/geronimo_neto/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/geronimo_neto/" /></a>  <a href="https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ" ><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ"/></a>
