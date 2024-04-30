@@ -5,13 +5,12 @@
 <h1 align="center">Hello!! You're welcome</h1>
 <h2 align="center">Data Engineer / Engenheiro de dados</h2>
 
-
-<img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-EmHoV9TclkbOHh5Gp6dwo59T/user-h0qvsrX9ePtUghO1ZJrw9ln6/img-RblNSkKSrdkhMvQsNoLg8JAM.png?st=2024-04-30T11%3A09%3A02Z&se=2024-04-30T13%3A09%3A02Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-30T11%3A31%3A43Z&ske=2024-05-01T11%3A31%3A43Z&sks=b&skv=2021-08-06&sig=r1uZVtt0hOMnyoUdAgQ%2BGDMzR8AWAOV5/Ddg1N9dUVg%3D" alt="gif de redes neurais" height="960" width="1020">
+<img src="https://imgur.com/IBDF2Hs/" alt="gif de redes neurais" height="960" width="1020">
 
 <ul>
-  <li>Conteúdo estudado atualmente: <strong>Engenharia de dados</strong></li>
-  <li></li>
-  <li></li>
+<li>Conteúdo estudado atualmente: <strong>Engenharia de dados</strong></li>
+<li></li>
+<li></li>
 </ul>
 
 <h3 align="left">Redes Sociais:</h3>
