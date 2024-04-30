@@ -2,12 +2,9 @@
 
 <h1 align="center">Hello!! You're welcome</h1>
 <h2 align="center">Data Engineer / Engenheiro de dados</h2>
-<img src="https://imgur.com/IBDF2Hs/" alt="imagem de engenheiro de dados" height="960" width="1020">
-<ul>
-<li><img src="https://static.vecteezy.com/ti/vetor-gratis/p1/503709-design-de-icone-de-estudante-masculino-gratis-vetor.jpg">Conteúdo estudado atualmente: <strong>Engenharia de dados</strong></li>
-<li></li>
-<li></li>
-</ul>
+<img src="https://imgur.com/IBDF2Hs" alt="imagem de engenheiro de dados" height="960" width="1020">
+
+<p><img src="https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="50" height="50" align="left">Conteúdo estudado atualmente: <strong align="center">Engenharia de dados</strong></p>
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
