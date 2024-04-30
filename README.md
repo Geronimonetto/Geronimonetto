@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head></head>
-<main>
+
+
 <h1 align="center">Hello!! You're welcome</h1>
 <h2 align="center">Data Engineer / Engenheiro de dados</h2>
-
-<img src="https://imgur.com/IBDF2Hs/" alt="gif de redes neurais" height="960" width="1020">
-
+<img src="https://imgur.com/IBDF2Hs/" alt="imagem de engenheiro de dados" height="960" width="1020">
 <ul>
-<li>Conteúdo estudado atualmente: <strong>Engenharia de dados</strong></li>
+<li><img src="https://static.vecteezy.com/ti/vetor-gratis/p1/503709-design-de-icone-de-estudante-masculino-gratis-vetor.jpg">Conteúdo estudado atualmente: <strong>Engenharia de dados</strong></li>
 <li></li>
 <li></li>
 </ul>
@@ -28,12 +24,11 @@
 <a href="https://kubernetes.io/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
 <a href="https://https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/> </a>
-</main>
 <footer>
 <div>
 <img width ="680" src="https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=en" alt="geronimonetto" background-color:black ><img width ="680" src="https://github-readme-streak-stats.herokuapp.com/?user=geronimonetto&" alt="geronimonetto">
 <img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto">
 </div>
 </footer>
-</html>
+
 
