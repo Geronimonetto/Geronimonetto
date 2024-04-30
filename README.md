@@ -1,17 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<main>
+<h1 align="center">Hello!! You're welcome</h1>
+<h2 align="center">Data Engineer / Engenheiro de dados</h2>
 
 
-<h1 align="center">Oi 👋, Prazer eu sou o Neto</h1>
-<h2 align="center">Data Engineer - Developer Full Stack - Data Analyst</h2>
-<p align ="center"> <img src="https://user-images.githubusercontent.com/52280124/140497722-2495afbd-f2a9-4462-955f-f711bc90254a.gif"/> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto" /> </p>
+<img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-EmHoV9TclkbOHh5Gp6dwo59T/user-h0qvsrX9ePtUghO1ZJrw9ln6/img-RblNSkKSrdkhMvQsNoLg8JAM.png?st=2024-04-30T11%3A09%3A02Z&se=2024-04-30T13%3A09%3A02Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-04-30T11%3A31%3A43Z&ske=2024-05-01T11%3A31%3A43Z&sks=b&skv=2021-08-06&sig=r1uZVtt0hOMnyoUdAgQ%2BGDMzR8AWAOV5/Ddg1N9dUVg%3D" alt="gif de redes neurais" height="960" width="1020">
 
-- 🌱 Eu estou aprendendo **Apache Airflow**
-
-- 🤝 Estou disponível para **Emprego em tempo integral**
-
-- 📫 Meu contato **geronimomorais1617@gmail.com**
-
-- ✅ **Certificação**: AWS Cloud Pratictioner CLF-02 
+<ul>
+  <li>Conteúdo estudado atualmente: <strong>Engenharia de dados</strong></li>
+  <li></li>
+  <li></li>
+</ul>
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
@@ -28,7 +29,12 @@
 <a href="https://kubernetes.io/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
 <a href="https://https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/> </a>
+</main>
+<footer>
+<div>
+<img width ="680" src="https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=en" alt="geronimonetto" background-color:black ><img width ="680" src="https://github-readme-streak-stats.herokuapp.com/?user=geronimonetto&" alt="geronimonetto">
+<img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto">
+</div>
+</footer>
+</html>
 
-
-<p><img align="center" width ="400" src="https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=en" alt="geronimonetto" /></p>
-<p><img align="center" width ="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geronimonetto&" alt="geronimonetto" /></p>
