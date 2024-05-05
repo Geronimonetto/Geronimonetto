@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello!! You're welcome</h1>
 <h2 align="center">Data Engineer / Engenheiro de dados</h2>
-<img src="https://imgur.com/IBDF2Hs" alt="imagem de engenheiro de dados" height="960" width="1020">
+<img src="https://i.imgur.com/IBDF2Hs.png" alt="imagem de engenheiro de dados" height="960" width="1020">
 
 <p><img src="https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="50" height="50" align="left">Conteúdo estudado atualmente: <strong align="center">Engenharia de dados</strong></p>
 
