@@ -4,7 +4,7 @@
 <h2 align="center">Data Engineer / Engenheiro de dados</h2>
 <img src="https://i.imgur.com/IBDF2Hs.png" alt="imagem de engenheiro de dados" height="960" width="1020">
 
-<p><img src="https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="50" height="50" align="left">Conteúdo estudado atualmente: <strong align="center">Engenharia de dados</strong></p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="30" height="30" align="left">Conteúdo estudado atualmente: <strong align="center">Engenharia de dados</strong></p>
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
