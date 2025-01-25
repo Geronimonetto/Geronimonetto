@@ -1,31 +1,61 @@
+# 👋 Olá! Seja bem-vindo ao meu perfil
 
+## 🚀 Engenheiro de Dados | Data Engineer
 
-<h1 align="center">Hello!! You're welcome</h1>
-<h2 align="center">Data Engineer / Engenheiro de dados</h2>
-<img src="https://i.imgur.com/IBDF2Hs.png" alt="imagem de engenheiro de dados" height="960" width="1020">
+Sou apaixonado por dados e tecnologia, com experiência em **processamento, organização e análise de grandes volumes de dados**. Estou sempre buscando aprender novas ferramentas e tecnologias para solucionar problemas complexos e gerar insights valiosos.
 
-<p><img src="https://cdn-icons-png.flaticon.com/512/3584/3584382.png" width="30" height="30" align="left">Conteúdo estudado atualmente: <strong align="center">Engenharia de dados</strong></p>
+---
 
-<h3 align="left">Redes Sociais:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/geronimoneto/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/geronimo-neto-47b153225/"/></a>  <a href="https://www.facebook.com/geronimo.morais.5/" ><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/geronimo.morais.5/"/></a>  <a href="https://www.instagram.com/geronimo_neto/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/geronimo_neto/" /></a>  <a href="https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ" ><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ"/></a>
-  
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>  
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/> </a>   
-</p><a href="https://www.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> </a>
-<a href="https://kubernetes.io/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
-<a href="https://https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/> </a>
-<footer>
-<div>
-<img width ="680" src="https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=en" alt="geronimonetto" background-color:black ><img width ="680" src="https://github-readme-streak-stats.herokuapp.com/?user=geronimonetto&" alt="geronimonetto">
-<img src="https://komarev.com/ghpvc/?username=geronimonetto&label=Profile%20views&color=0e75b6&style=flat" alt="geronimonetto">
-</div>
-</footer>
+## 📌 Sobre mim
 
+- 🎯 **Atualmente estudando**: Engenharia de Dados, Ciência de Dados e tecnologias relacionadas.
+- 📊 **Habilidades principais**: Processamento de dados, ETL, cloud computing e automação de pipelines.
+- 🧩 **Interesses**: Estatística, Machine Learning e Big Data.
 
+---
+
+## 💼 Experiência e Projetos
+- 🔍 **ETL e Pipelines de Dados**: Criação de pipelines escaláveis para extração, transformação e carregamento de dados.
+- ☁️ **Cloud**: Experiência com AWS, armazenamento em S3, Athena e Redshift.
+- 📈 **Análise de Dados**: Criação de dashboards e relatórios acionáveis usando Python, SQL e Excel.
+
+> ⚡ Confira meus projetos no meu repositório: [Portfólio](https://github.com/geronimonetto?tab=repositories)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geronimoneto/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geronimo_neto/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ)
+
+---
+
+## 📊 Minhas Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=pt-br&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=geronimonetto&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geronimonetto&layout=compact&theme=dark)
+
+---
+
+💡 **Mensagem para recrutadores**: Estou aberto a oportunidades como **Engenheiro de Dados** ou posições relacionadas. Vamos conversar? 😊
+
+📩 **Entre em contato comigo**:  
+📧 Email: geronimo@exemplo.com  
+📱 WhatsApp: +55 11 99999-9999
