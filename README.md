@@ -1,61 +1,131 @@
-# 👋 Olá! Seja bem-vindo ao meu perfil
+## Hi, I'm Geronimo Morais
 
-## 🚀 Engenheiro de Dados | Data Engineer
+## Data Analyst | Data Engineer 🚀
 
-Sou apaixonado por dados e tecnologia, com experiência em **processamento, organização e análise de grandes volumes de dados**. Estou sempre buscando aprender novas ferramentas e tecnologias para solucionar problemas complexos e gerar insights valiosos.
+### About Me 👨‍💻  
+🚀<b>Data Analyst with over 2 years of experience working at the intersection of analytics and data engineering. I specialize in maintaining and evolving data pipelines using the Medallion architecture, automating workflows with Python, and creating dashboards and exploratory analyses using tools like Dremio and Metabase. I also have experience with cloud platforms (AWS - S3, Athena) and have developed supervised machine learning models (e.g., churn prediction) to support business decision-making.</b>💡📈
 
----
-
-## 📌 Sobre mim
-
-- 🎯 **Atualmente estudando**: Engenharia de Dados, Ciência de Dados e tecnologias relacionadas.
-- 📊 **Habilidades principais**: Processamento de dados, ETL, cloud computing e automação de pipelines.
-- 🧩 **Interesses**: Estatística, Machine Learning e Big Data.
+📚 In addition to my professional background, I’ve participated in postgraduate academic projects involving **NLP (Spacy/NLTK)**, **web scraping**, **supervised classification**, and **Streamlit visualizations**.
 
 ---
 
-## 💼 Experiência e Projetos
-- 🔍 **ETL e Pipelines de Dados**: Criação de pipelines escaláveis para extração, transformação e carregamento de dados.
-- ☁️ **Cloud**: Experiência com AWS, armazenamento em S3, Athena e Redshift.
-- 📈 **Análise de Dados**: Criação de dashboards e relatórios acionáveis usando Python, SQL e Excel.
+### ⭐️ I have experience in:
 
-> ⚡ Confira meus projetos no meu repositório: [Portfólio](https://github.com/geronimonetto?tab=repositories)
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+* 🔹 🧱🔄 Building and maintaining data pipelines using the **Medallion architecture** (Bronze, Silver, Gold)
+* 🔹 📊📈 Creating dashboards and reports using **Dremio** and **Metabase**
+* 🔹 ☁️🧰 Working with **AWS services** (S3, Athena) for cloud-based analytics
+* 🔹 🧠📉 Developing basic **ML models** (e.g., churn classification)
+* 🔹 🐍🤖 Automating data processes and reports using **Python**
+* 🔹 📚🧪 Participating in academic Data Science projects with **scikit-learn**, **NLP**, **web scraping**, and **Streamlit**
 
 ---
 
-## 🌐 Redes Sociais
+### 🧠⚙️ Technologies I’ve been working with:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geronimoneto/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geronimo_neto/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMED-nMkoGtxuyGHyeb91jQ)
+* Python  
+* SQL  
+* AWS (S3, Athena)  
+* Dremio  
+* Metabase  
+* Medallion Architecture  
+* scikit-learn  
+* Pandas & NumPy  
+* Web scraping (BeautifulSoup, Scrapy)  
+* NLP (Spacy, NLTK)  
+* Streamlit  
+* Matplotlib / Seaborn  
+* Git/GitHub  
 
 ---
 
-## 📊 Minhas Estatísticas
+## 💼 My Projects
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=geronimonetto&show_icons=true&locale=pt-br&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=geronimonetto&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geronimonetto&layout=compact&theme=dark)
+### [1. Catastrophes in the Northeast of Brazil](https://github.com/Geronimonetto/catastrophes-northeast-brazil)
+> Academic project focused on descriptive modeling using **K-Means** and the **Silhouette Method** to identify the safest states in Brazil’s Northeast region for the company *SeguraMais Seguros* to expand its operations.
+
+- 🔍 Data analysis and outlier treatment  
+- 📊 Clustering with K-Means  
+- 📈 Evaluation with the Silhouette Method  
+- 🧠 Recommendations for low-risk states  
+- 🛠 Tech stack: Python, pandas, scikit-learn, matplotlib, seaborn, Jupyter Notebook
 
 ---
 
-💡 **Mensagem para recrutadores**: Estou aberto a oportunidades como **Engenheiro de Dados** ou posições relacionadas. Vamos conversar? 😊
+### [2. Non-Verbal Predict Analysis (Classification)](https://github.com/Geronimonetto/non-verbal-predict-analysis)
+> A supervised classification project comparing **k-NN** and **Random Forest** to determine the best-performing model based on metrics such as accuracy and F1-score.
 
-📩 **Entre em contato comigo**:  
-📧 Email: geronimo@exemplo.com  
-📱 WhatsApp: +55 81 99330-4028
+- 📚 k-NN (Best k = 4) vs Random Forest (200 estimators, depth 5)  
+- 📊 Cross-validation metrics  
+- ✅ Random Forest achieved 84% test accuracy  
+- 💡 Next steps: handle imbalanced classes (SMOTE), normalization, Streamlit UI  
+- 🛠 Tech stack: Python 3.11, pandas, NumPy, scikit-learn, matplotlib, seaborn
+
+---
+
+### [3. Streamlit - Accidents in Brazil](https://github.com/Geronimonetto/Streamlit-accidents-brasil)
+> Interactive data visualization project using **Streamlit** to analyze accident data in Brazil with a clean interface and simple deployment instructions.
+
+- 🖥 Streamlit-based UI for visualizing accident data  
+- 📊 Data manipulation with pandas  
+- 📁 Project structure with virtualenv and `requirements.txt`  
+- 🛠 Tech stack: Python, pandas, matplotlib, Streamlit
+
+---
+
+## 🛠 Skills
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SQL</span><br><br>
+        <img height="64px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Dremio</span><br><br>
+        <img height="64px" src="https://seeklogo.com/images/D/dremio-logo-BE2C4A66AF-seeklogo.com.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Metabase</span><br><br>
+        <img height="64px" src="https://avatars.githubusercontent.com/u/1775733?s=280&v=4">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>AWS</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>scikit-learn</span><br><br>
+        <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Spacy</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/120px-SpaCy_logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Streamlit</span><br><br>
+        <img height="64px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<div align="center">
+    <h3 align="center"><p>Send me a message!</p><p>It would be a pleasure to meet you :)</p><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/geronimoneto/" target="blank">
+  <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="mailto:geronimomorais1617@gmail.com" target="blank">
+  <img align="center" alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" /> &nbsp; &nbsp;
+ </a>
+</p>
