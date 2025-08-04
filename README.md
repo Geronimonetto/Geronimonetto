@@ -72,6 +72,30 @@
 
 ---
 
+### [4. 🧠 CRM-RAG-Analyzer - Análise de Insatisfação de Clientes com RAG](https://github.com/Geronimonetto/crm-rag-analyzer)
+> Projeto de NLP utilizando **RAG (Retrieval-Augmented Generation)** para identificar automaticamente os principais motivos de insatisfação dos pacientes em uma clínica odontológica.
+
+- 📁 Processamento de texto com `RecursiveCharacterTextSplitter`  
+- 🧠 Embeddings com OpenAI + armazenamento vetorial com FAISS  
+- 🔍 Recuperação semântica de trechos relevantes  
+- 💬 Geração de respostas com GPT-4o-mini  
+- 📊 Resultados interpretáveis sobre falhas na experiência dos pacientes  
+- 🛠 Tech stack: Python 3.10+, LangChain, FAISS, OpenAI Embeddings, Pandas
+
+---
+
+### [5. 🐶🐱 VisionNet18 - Classificador de Animais com ResNet18](https://github.com/Geronimonetto/visionnet18)
+> Classificação de imagens em três categorias: **cachorros**, **gatos** e **animais selvagens** usando **Transfer Learning com ResNet18** e técnicas de data augmentation.
+
+- 🧠 Modelo pré-treinado com fine-tuning na base AFHQ  
+- 🐾 Dataset balanceado com preparação automática via script  
+- 🎨 Data augmentation com `torchvision.transforms`  
+- 📈 Acurácia de validação: **98.67%** após 10 épocas  
+- 🛠 Tech stack: Python 3.8+, PyTorch, torchvision, scikit-learn, matplotlib, kagglehub
+
+
+---
+
 ## 🛠 Skills
 
 <table align="center">
