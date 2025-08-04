@@ -1,6 +1,6 @@
 ## Hi, I'm Geronimo Morais
 
-## Data Analyst | Data Engineer 🚀
+## Data Scientist 🚀
 
 ### About Me 👨‍💻  
 🚀<b>Data Analyst with +2 years of experience working at the intersection of analytics and data engineering. I specialize in maintaining and evolving data pipelines using the Medallion architecture, automating workflows with Python, and creating dashboards and exploratory analyses using tools like Dremio and Metabase. I also have experience with cloud platforms (AWS - S3, Athena) and have developed supervised machine learning models (e.g., churn prediction) to support business decision-making.</b>💡📈
